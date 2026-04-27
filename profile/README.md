@@ -5,7 +5,7 @@
 
 # Three Moons Lab
 
-Release-readiness tooling for tool-using AI agents. **Static, local, deterministic.**
+Three Moons Lab builds developer infrastructure for agent release readiness and lifecycle health.
 
 ---
 
